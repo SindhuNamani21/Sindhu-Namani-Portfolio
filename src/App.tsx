@@ -184,7 +184,7 @@ const Hero = () => (
         </div>
 
         <p className="text-[#aaabb8] text-lg leading-relaxed mb-10 max-w-2xl">
-          IT professional with an M.S. in Information Systems, experienced across data analytics, full-stack development, AI integration, project management, and cybersecurity. I translate complex technical challenges into clear, impactful solutions across diverse industries.
+          IT professional with an M.S. in Information Systems, experienced across data analytics, full-stack development, AI integration, and project management. I translate complex technical challenges into clear, impactful solutions across diverse industries.
         </p>
 
         <div className="flex flex-wrap gap-4 mb-12">
@@ -928,7 +928,7 @@ const Contact = () => (
     <div className="max-w-4xl mx-auto px-6 text-center">
       <SectionHeading label="Say hello" title="Get In Touch" />
       <p className="text-[#8888aa] text-base mb-10 max-w-lg mx-auto">
-        Actively seeking IT roles across analytics, software development, project management, and cybersecurity. Open to opportunities in Memphis and beyond.
+        Actively seeking IT roles across analytics, software development, and project management. Open to opportunities in Memphis and beyond.
       </p>
       <div className="flex flex-wrap justify-center gap-4">
         {[
