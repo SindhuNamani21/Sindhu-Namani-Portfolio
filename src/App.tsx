@@ -1009,7 +1009,7 @@ export default function App() {
               <p className="text-[#8888aa] text-sm">Full PDF resume with all experience, projects, and certifications.</p>
             </div>
             <a 
-              href="public/Sindhu_Namani_Resume.pdf" 
+              href="https://github.com/SindhuNamani21/Sindhu-Namani-Portfolio/raw/main/public/Sindhu_Namani_Resume.pdf" 
               download="Sindhu_Namani_Resume.pdf"
               className="px-8 py-3.5 bg-[#4f8ef7] text-white rounded-lg font-bold text-sm hover:bg-[#3a7ae8] shadow-lg shadow-[#4f8ef720] transition-all flex items-center gap-2.5 whitespace-nowrap"
             >
